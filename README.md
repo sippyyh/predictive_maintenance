@@ -29,4 +29,3 @@ Developed a data-driven system to:
 - **Python (Pandas, NumPy)** → Feature engineering & transformation  
 - **Power BI** → Dashboard development & visualization  
 - **CSV/Excel** → Data source
-kjh
